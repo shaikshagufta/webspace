@@ -1,26 +1,13 @@
-<html>
-<!DOCTYPE html>
-<html lang="en">
+body {
+  background-color: lightblue;
+}
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+h1 {
+  color: rgb(177, 31, 31);
+  text-align: center;
+}
 
-<body style="background-color: lightblue;">
-
-
-    <h1 style="color: rgb(177, 31, 31);
-    text-align: center;">
-    </h1>
-
-    <p style="font-family: verdana;font-size: 20px;">
-
-    </p>
-</body>
-
-</html>
-
-</html>
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
