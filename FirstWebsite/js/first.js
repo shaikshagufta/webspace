@@ -1,4 +1,3 @@
-function myfunction(a, b) {
-    console.log("the answer is" + a * b);
+function myFunction(a, b) {
     return a * b;
 }
